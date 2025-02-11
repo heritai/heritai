@@ -3,7 +3,7 @@
 
 | Code/Project| Model       |Data         |Application  |
 | ----------- | ----------- | ----------- | ----------- |
-| Diabet Remission Prediction      | Title       |             |             |
+| Diabet Remission Prediction      | Random Forest, Decision Tree |[Diabet Prediction Dataset]( https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)| Medical Data |
 | Paragraph   | Text        |             |             |
 
 <!---
