@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @yousef-taheri
 - 👀 I’m interested in AI, Machine learning and Statistics
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Code/Project| Model       |Data         |Application  |
+| ----------- | ----------- | ----------- | ----------- |
+| Diabet Remission Prediction      | Title       |             |             |
+| Paragraph   | Text        |             |             |
 
 <!---
 yousef-taheri/yousef-taheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
