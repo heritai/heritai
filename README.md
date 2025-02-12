@@ -6,7 +6,7 @@
 | Diabet Remission Prediction      | Random Forest, Decision Tree |[Diabet Prediction Dataset]( https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)| Medical |
 | Clusetring Comparison Metrics | K-means, Hierarchical clustering, Spectral clustering |  [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Mice Protein Data Set](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)| Medical  |
 EM Algorithm | Gaussian Mixtures | [Breast Cancer Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Mice Protein Dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)| Medical  |
-Model Selection | lasso Regression, linear SVC, Elastic Net | [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset]([https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression](https://www.kaggle.com/datasets/crawford/gene-expression))| Medical  |
+Model Selection | lasso Regression, linear SVC, Elastic Net | [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  |
 
 
 <!---
