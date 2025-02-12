@@ -2,13 +2,14 @@
 
 Hi, I'm **Yousef Taheri**, a PhD in Artificial Intelligence with a passion for **Machine Learning, NLP, Symbolic AI, and AI Safety**.  
 
--🔹 **Interests:** Genereative AI, Symbolic AI, LLMs, Statistical Data Analysis
--🔹 **Tech Stack:** Python (Pytorch, Scikit-learn), R, Answer Set Programming
--🔹 **Currently Exploring:** Reasoning and Knowledge Representatin, ML interpretability, LLMs, RAGs, etc.  
+- 🔹 **Interests:** Genereative AI, Symbolic AI, LLMs, Statistical Data Analysis
+- 🔹 **Tech Stack:** Python (Pytorch, Scikit-learn), R, Answer Set Programming
+- 🔹 **Currently Exploring:** Reasoning and Knowledge Representatin, ML interpretability, LLMs, RAGs, etc.  
 
 Feel free to explore my repositories, and don’t hesitate to **connect or collaborate!** 🚀  
 
-Here, I share code from **various projects, research experiments, and courses**. You'll find implementations of **ML models, Deep learing architectures, Reinforcement learning algorithms, AI reasoning, and more**.  The following table lists these codes along with details about the datasets and their application domains.
+Here, I share code from **various projects, research experiments, and courses**. 
+> You'll find implementations of **ML models, Deep learing architectures, Reinforcement learning algorithms, AI reasoning, and more**.  The following table lists these codes along with details about the datasets and their application domains.
 
 
 | Code/Project| Model       |Data         |Application  |
