@@ -1,6 +1,6 @@
 ### **👋 Welcome to My GitHub!**  
 
-Hi, I'm **Yousef Taheri**, a PhD in Artificial Intelligence with a passion for **Machine Learning, NLP, Symbolic AI, and AI Safety**.  
+Hi, I'm **Yousef**, a PhD in Artificial Intelligence with a passion for **Machine Learning, NLP, Symbolic AI, and AI Safety**.  
 
 - 🔹 **Interests:** Genereative AI, Symbolic AI, LLMs, Statistical Data Analysis
 - 🔹 **Tech Stack:** Python (Pytorch, Scikit-learn), R, Answer Set Programming
@@ -22,6 +22,7 @@ EM Algorithm | Gaussian Mixtures | [Breast Cancer Data Set](https://archive.ics.
 | Cross Validation, Class Region plotting | Logistic Regression | [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | scikit-learn, pandas |
 | Dimension Reduction |Principle Component Analysis(PCA), Linear Discriminant Analysis(LDA)| [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | scikit-learn, pandas |
 | Bayesian Networks |Bayesian Networks| Dietary data of obese patienst [MICRO-Obes](https://pubmed.ncbi.nlm.nih.gov/25330000/)| Medical  | pyAgrum, pandas |
+| Neural Networks |MLP | Dietary data of obese patienst [MICRO-Obes](https://pubmed.ncbi.nlm.nih.gov/25330000/), [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | Keras, Tensorflow, scikit-learn |
 
 <!---
 yousef-taheri/yousef-taheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
