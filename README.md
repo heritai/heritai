@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @yousef-taheri
-- 👀 I’m interested in AI, Machine learning and Statistics
+👋 Welcome to My GitHub!
+Hi, I'm Yousef Taheri, a PhD in Artificial Intelligence with a passion for Machine Learning, NLP, Symbolic AI, and AI Safety.
+
+Here, I share code from various projects, research experiments, and courses. You'll find implementations of ML models, NLP techniques, AI reasoning systems, and more.
+
+🔹 Interests: AI Ethics, LLM Safety, Knowledge Representation, Multimodal Learning
+🔹 Tech Stack: Python, PyTorch, TensorFlow, Scikit-learn, Logic Programming
+🔹 Currently Exploring: AI robustness, ML interpretability, and model evaluation
+
+Feel free to explore my repositories, and don’t hesitate to connect or collaborate! 🚀
 
 | Code/Project| Model       |Data         |Application  |
 | ----------- | ----------- | ----------- | ----------- |
