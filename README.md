@@ -23,6 +23,7 @@ EM Algorithm | Gaussian Mixtures | [Breast Cancer Data Set](https://archive.ics.
 | Dimension Reduction |Principle Component Analysis(PCA), Linear Discriminant Analysis(LDA)| [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | scikit-learn, pandas |
 | Bayesian Networks |Bayesian Networks| Dietary data of obese patienst [MICRO-Obes](https://pubmed.ncbi.nlm.nih.gov/25330000/)| Medical  | pyAgrum, pandas |
 | Neural Networks |MLP | Dietary data of obese patienst [MICRO-Obes](https://pubmed.ncbi.nlm.nih.gov/25330000/), [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | Keras, Tensorflow, scikit-learn |
+Heart Disease Prediction| Gaussian Mixtures, Gradient Boost, PCA| [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)| Medical | scikit-learn, scipy|
 
 <!---
 yousef-taheri/yousef-taheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
