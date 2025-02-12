@@ -9,7 +9,8 @@ Hi, I'm **Yousef Taheri**, a PhD in Artificial Intelligence with a passion for *
 Feel free to explore my repositories, and don’t hesitate to **connect or collaborate!** 🚀  
 
 Here, I share code from **various projects, research experiments, and courses**. 
-> You'll find implementations of **ML models, Deep learing architectures, Reinforcement learning algorithms, AI reasoning, and more**.  The following table lists these codes along with details about the datasets and their application domains.
+- You'll find implementations of **ML models, Deep learing architectures, Reinforcement learning algorithms, AI reasoning, and more**.
+- The following table lists these codes along with details about the datasets and their application domains.
 
 
 | Code/Project| Model       |Data         |Application  |
