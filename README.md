@@ -14,7 +14,7 @@ Here, I share code from **various projects, research experiments, and courses**.
 
 
 | Code/Project| Model       |Data         |Application  | Packages |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 | Diabet Remission Prediction      | Random Forest, Decision Tree |[Diabet Prediction Dataset]( https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)| Medical |scikit-learn, pandas |
 | Clusetring Comparison Metrics | K-means, Hierarchical clustering, Spectral clustering |  [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Mice Protein Data Set](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)| Medical  | scikit-learn, pandas |
 EM Algorithm | Gaussian Mixtures | [Breast Cancer Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Mice Protein Dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)| Medical  | scikit-learn, pandas |
