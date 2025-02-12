@@ -21,7 +21,7 @@ EM Algorithm | Gaussian Mixtures | [Breast Cancer Data Set](https://archive.ics.
 | Model Selection, Feature Selection | lasso Regression, linear SVC, Elastic Net | [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | scikit-learn, pandas |
 | Cross Validation, Class Region plotting | Logistic Regression | [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | scikit-learn, pandas |
 | Dimension Reduction |Principle Component Analysis(PCA), Linear Discriminant Analysis(LDA)| [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | scikit-learn, pandas |
-| Bayesian Networks |Bayesian Networks| [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), [Gene Expression Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)| Medical  | pyAgrum, pandas |
+| Bayesian Networks |Bayesian Networks| Dietary data of obese patienst [MICRO-Obes](https://pubmed.ncbi.nlm.nih.gov/25330000/)| Medical  | pyAgrum, pandas |
 
 <!---
 yousef-taheri/yousef-taheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
