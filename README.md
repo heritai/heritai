@@ -1,16 +1,34 @@
-### **👋 Welcome to My GitHub!**  
+# 👋 Hi, I'm Yousef Taheri!  
 
-Hi, I'm **Yousef**, a PhD in Artificial Intelligence with a passion for **Machine Learning, NLP, Symbolic AI, and AI Safety**.  
+🚀 **AI/ML Researcher & Developer | Specialized in Machine Learning, NLP, and Symbolic AI**  
 
-- 🔹 **Interests:** Genereative AI, Symbolic AI, LLMs, Statistical Data Analysis
-- 🔹 **Tech Stack:** Python (Pytorch, Scikit-learn), R, Answer Set Programming
-- 🔹 **Currently Exploring:** Reasoning and Knowledge Representatin, ML interpretability, LLMs, RAGs, etc.  
+Welcome to my GitHub! I'm a **PhD in AI** from Sorbonne University with a passion for **programming**  and designing **trustworthy and explainable AI systems**.
 
-Feel free to explore my repositories, and don’t hesitate to **connect or collaborate!** 🚀  
+### 🔧 **Tech Stack & Skills**  
+- **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, Prolog, ASP  
+- **AI & ML Tools**: Hugging Face, MLflow, LangChain, LangGraph, Crewai  
+- **Deployment**: Docker, Flask, FastAPI, Git  
+- **Databases**: SQL, Neo4j, Spark SQL  
+- **Other**: Data Visualization, Statistical Analysis.  
+
+### 💡 **What I Work On**  
+🔹 Currently Exploring: **development** and **deployment** of AI systems, **LLMs** and **generative AI** applications, RAGs, etc.
+
+### 📫 **Let's Connect!**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yousef-taheri-0403205a/)  
+- 📚 [Google Scholar](http://scholar.google.com/citations?user=IN72HckAAAAJ)  
+- 🌐 Personal Website (coming soon!)  
+
+Feel free to explore my repos and reach out for **collaborations!** 🤖✨  
+
 
 Here, I share code from **various projects, research experiments, and courses**. 
 - You'll find implementations of **ML models, Deep learing architectures, Reinforcement learning algorithms, AI reasoning, and more**.
 - The following table lists these codes along with details about the datasets and their application domains.
+
+
+
+
 
 
 | Code/Project| Model       |Data         |Application  | Packages |
