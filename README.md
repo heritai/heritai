@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a **PhD in AI** from Sorbonne University with a passio
 ### 📫 **Let's Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousef-taheri-0403205a/)  
 - 📚 [Google Scholar](http://scholar.google.com/citations?user=IN72HckAAAAJ)  
-- 🌐 Personal Website (coming soon!)  
+- 🌐 [Personal Website](https://yousef-taheri.github.io/) 
 
 Feel free to explore my repos and reach out for **collaborations!** 🤖✨  
 
