@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a **PhD in AI** from Sorbonne University with a passio
 
 
 * [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yousef-taheri)
- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri-0403205a/?_l=en_US)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri/)
  
 * [![Google Scholar](https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
  [![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/HeritaMind)
