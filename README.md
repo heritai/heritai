@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a **PhD in AI** from Sorbonne University with a passio
 ### 🔧 **Tech Stack & Skills**  
 - **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, Prolog, ASP  
 - **AI & ML Tools**: Hugging Face, MLflow, LangChain, LangGraph, Crewai  
-- **Deployment**: Docker, Flask, FastAPI, Git  
+- **Deployment**: Docker, Flask, Git  
 - **Databases**: SQL, Neo4j, Spark SQL  
 - **Other**: Data Visualization, Statistical Analysis.  
 
