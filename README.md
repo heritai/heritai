@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Yousef Taheri!  
 
-🚀 **AI/ML Researcher & Developer | Specialized in Machine Learning, NLP, and Symbolic AI**  
-
-Welcome to my GitHub! I'm a **PhD in AI** from Sorbonne University with a passion for **programming**  and designing **trustworthy and explainable AI systems**.
+🚀 I work at the intersection of machine learning, applied research, and responsible AI.
+I’m especially interested in building intelligent systems that are interpretable, scalable, and aligned with real-world constraints like fairness and compliance.
 
 ### 🔧 **Tech Stack & Skills**  
 - **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, Prolog, ASP  
-- **AI & ML Tools**: Hugging Face, MLflow, LangChain, LangGraph, Crewai  
+- **AI & ML Tools**: MLflow, LangChain, LangGraph, Crewai  
 - **Deployment**: Docker, Flask, Git  
-- **Databases**: SQL, Neo4j, Spark SQL  
+- **Databases**: SQL, Neo4j, Spark, SQL  
 - **Other**: Data Visualization, Statistical Analysis.  
 
 ### 💡 **What I Work On**  
