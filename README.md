@@ -4,14 +4,12 @@
 I’m especially interested in building intelligent systems that are interpretable, scalable, and aligned with real-world constraints like fairness and compliance.
 
 ### 🔧 **Tech Stack & Skills**  
-- **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, Prolog, ASP  
-- **AI & ML Tools**: MLflow, LangChain, LangGraph, Crewai  
+- **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, ASP  
+- **AI & ML Tools**: MLflow, LangChain
 - **Deployment**: Docker, Flask, Git  
 - **Databases**: SQL, Neo4j, Spark, SQL  
 - **Other**: Data Visualization, Statistical Analysis.  
 
-### 💡 **What I Work On**  
-🔹 Currently Exploring: **development** and **deployment** of AI systems, **LLMs** and **generative AI** applications, RAGs, etc.
 
 ### 📫 **Let's Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousef-taheri-0403205a/)  
