@@ -5,7 +5,7 @@ I’m especially interested in building intelligent systems that are interpretab
 
 ### 🔧 **Tech Stack & Skills**  
 - **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, ASP  
-- **AI & ML Tools**: MLflow, LangChain
+- **AI & ML Tools**: MLflow, LangGraph, LangChain
 - **Deployment**: Docker, Flask, Git  
 - **Databases**: SQL, Neo4j, Spark, SQL  
 - **Other**: Data Visualization, Statistical Analysis.  
