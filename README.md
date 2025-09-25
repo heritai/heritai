@@ -8,7 +8,6 @@ I’m especially interested in building intelligent systems that are interpretab
 - **AI & ML Tools**: MLflow, LangGraph, LangChain
 - **Deployment**: Docker, Flask, Git  
 - **Databases**: SQL, Neo4j, Spark, SQL  
-- **Other**: Data Visualization, Statistical Analysis.  
 
 
 ### 📫 **Let's Connect!**  
@@ -26,11 +25,6 @@ I’m especially interested in building intelligent systems that are interpretab
 
 
 Feel free to explore my repos and reach out for **collaborations!** 🤖✨  
-
-
-Here, I share code from **various projects, research experiments, and courses**. 
-- You'll find implementations of **ML models, Deep learing architectures, Reinforcement learning algorithms, AI reasoning, and more**.
-
 
 
 
