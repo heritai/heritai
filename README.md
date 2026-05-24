@@ -1,19 +1,24 @@
 # 👋 Hi, I'm Yousef Taheri!  
 
-🚀 I work at the intersection of machine learning, applied research, and responsible AI.
-I’m especially interested in building intelligent systems that are interpretable, scalable, and aligned with real-world constraints like fairness and compliance.
+I’m an AI Governance Researcher with a background in machine learning, computational ethics, and symbolic AI.
 
-### 🔧 **Tech Stack & Skills**  
-- **Programming**: Python (PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy), R, Java, ASP  
-- **AI & ML Tools**: MLflow, LangGraph, LangChain
-- **Deployment**: Docker, Flask, Git  
-- **Databases**: SQL, Neo4j, Spark, SQL  
+My work focuses on building and understanding trustworthy AI systems—especially around governance, risk evaluation, accountability, and the safe deployment of advanced AI, including generative and agentic systems.
 
+I hold a PhD in Machine Ethics from Sorbonne University, where I worked on formal approaches to ethical reasoning using logic-based and knowledge representation methods.
+
+My interests include:
+
+Trustworthy & Responsible AI
+AI Governance & Risk Assessment
+Agentic AI Safety
+AI Safety & Alignment
+
+Here you’ll find projects, experiments, and research spanning machine learning, AI governance, and ethics.
 
 ### 📫 **Let's Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousef-taheri-0403205a/)  
 - 📚 [Google Scholar](http://scholar.google.com/citations?user=IN72HckAAAAJ)  
-- 🌐 [Personal Website](https://heritai.github.io/)
+
 
 
 * [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yousef-taheri)
