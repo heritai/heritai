@@ -25,7 +25,6 @@ Here you’ll find projects, experiments, and research spanning machine learning
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri/)
  
 * [![Google Scholar](https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
- [![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/HeritaMind)
 
 
 
